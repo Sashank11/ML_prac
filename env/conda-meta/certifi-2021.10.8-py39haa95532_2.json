@@ -1,13 +1,12 @@
 {
-  "build": "py39hcbf5309_1",
-  "build_number": 1,
-  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "build": "py39haa95532_2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
   "constrains": [],
   "depends": [
-    "python >=3.9,<3.10.0a0",
-    "python_abi 3.9.* *_cp39"
+    "python >=3.9,<3.10.0a0"
   ],
-  "extracted_package_dir": "X:\\Miniconda3\\pkgs\\certifi-2021.10.8-py39hcbf5309_1",
+  "extracted_package_dir": "X:\\Miniconda3\\pkgs\\certifi-2021.10.8-py39haa95532_2",
   "features": "",
   "files": [
     "Lib/site-packages/certifi-2021.10.8-py3.9.egg-info/PKG-INFO",
@@ -25,15 +24,16 @@
     "Lib/site-packages/certifi/core.py",
     ".nonadmin"
   ],
-  "fn": "certifi-2021.10.8-py39hcbf5309_1.tar.bz2",
-  "license": "ISC",
+  "fn": "certifi-2021.10.8-py39haa95532_2.conda",
+  "legacy_bz2_md5": "2a11e7d77910760fc200d8f27c1d6745",
+  "license": "MPL-2.0",
   "link": {
-    "source": "X:\\Miniconda3\\pkgs\\certifi-2021.10.8-py39hcbf5309_1",
+    "source": "X:\\Miniconda3\\pkgs\\certifi-2021.10.8-py39haa95532_2",
     "type": 1
   },
-  "md5": "1511a457bcf9e070a34c6f1b3b9ba3f3",
+  "md5": "c182e2c7d2b2b2ea32d45d051827eccb",
   "name": "certifi",
-  "package_tarball_full_path": "X:\\Miniconda3\\pkgs\\certifi-2021.10.8-py39hcbf5309_1.tar.bz2",
+  "package_tarball_full_path": "X:\\Miniconda3\\pkgs\\certifi-2021.10.8-py39haa95532_2.conda",
   "paths_data": {
     "paths": [
       {
@@ -131,11 +131,11 @@
     "paths_version": 1
   },
   "requested_spec": "None",
-  "sha256": "c005599426de0ccafa31d81c4904f0f07cb803c919a4c604f5c4346ad1588bd8",
-  "size": 148764,
+  "sha256": "f76c0ae8643298945dd1cc936fb9e8d371cf2ce95e5a9e61d430ff425e9ad529",
+  "size": 155999,
   "subdir": "win-64",
-  "timestamp": 1635794206805,
+  "timestamp": 1641882062836,
   "track_features": "",
-  "url": "https://conda.anaconda.org/conda-forge/win-64/certifi-2021.10.8-py39hcbf5309_1.tar.bz2",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/certifi-2021.10.8-py39haa95532_2.conda",
   "version": "2021.10.8"
 }
